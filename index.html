@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>D076 Glossary Quiz</title>
+  <style>
+    body {
+  font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+  background-color: #f4f6f9;
+  margin: 0;
+  box-sizing: border-box;
+  padding-top: 60px;
+}
+    h1, h2 {
+      text-align: center;
+      color: #003058;
+    }
+    .question {
+      background: #ffffff;
+      border: 2px dashed #003058;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 25px;
+    }
+    .choices label {
+      display: block;
+      background: #e6ecf2;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      padding: 10px;
+      margin-top: 10px;
+      cursor: pointer;
+    }
+    .feedback {
+      margin-top: 10px;
+      font-weight: bold;
+    }
+    .correct {
+      background-color: #c8e6c9;
+    }
+    .incorrect {
+      background-color: #ffcdd2;
+    }
+    #progress-bar {
+  width: 100%;
+  background-color: #003058;
+  height: 36px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  border: 2px solid #0078d4;
+  padding: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: 1rem;
+  white-space: nowrap;
+}
+    #progress {
+  height: 100%;
+  width: 0%;
+  background-color: #00c851;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transition: width 0.3s;
+  z-index: -1;
+}
+    .section {
+      display: none;
+    }
+    .active {
+      display: block;
+    }
+    #nav-buttons {
+      text-align: center;
+      margin: 60px 0 20px;
+    }
+    #summary-page {
+      display: none;
+      text-align: center;
+      background: #fff;
+      border: 2px solid #003058;
+      border-radius: 10px;
+      padding: 20px;
+    }
+    button {
+      margin: 10px;
+      padding: 10px 20px;
+      font-size: 1rem;
+      border-radius: 6px;
+      background-color: #003058;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    #scrollTopBtn {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background-color: #003058;
+      color: white;
+      border: none;
+      padding: 10px;
+      border-radius: 50%;
+      font-size: 1.2rem;
+      cursor: pointer;
+      z-index: 1000;
+    }
+  </style>
+</head>
+<body>
+  <h1>D080 Glossary Quiz</h1>
+  <div id="progress-bar"><div id="progress">0%</div></div>
+  
+  <div id="quiz"></div>
+  <button onclick="submitQuiz()">Submit Answers</button>
+  <div id="results"></div>
+  <div id="summary-page">
+    <h2>Quiz Summary</h2>
+    <p id="final-score"></p>
+    <button onclick="window.print()">Print Summary</button>
+    <button onclick="retakeQuiz()">Retake Quiz</button>
+  </div>
+  <button id="scrollTopBtn" onclick="window.scrollTo({ top: 0, behavior: 'smooth' });">↑</button>
+  <script>
+    let quizData = [];
+    let score = 0;
+    let total = 0;
+
+    function shuffle(array) {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+      return array;
+    }
+
+    fetch('quiz-data.json')
+      .then(res => res.json())
+      .then(data => {
+        quizData = data.questions.map((q, index) => {
+          const correctText = q.explanation.trim();
+          let choices = shuffle([...q.choices]);
+          const answerIndex = choices.findIndex(c => c.trim().toLowerCase() === correctText.toLowerCase());
+          if (answerIndex === -1) {
+            console.warn(`Correct answer not found in choices for question ${index + 1}`, q);
+          }
+          return {
+            ...q,
+            id: index,
+            choices: choices,
+            answer: answerIndex,
+            correctText: correctText
+          };
+        });
+        shuffle(quizData);
+        total = quizData.length;
+        renderQuiz();
+        
+        showSection(0);
+      });
+
+    function renderQuiz() {
+      const quizDiv = document.getElementById('quiz');
+      quizDiv.innerHTML = '';
+      const sectionSize = 64;
+      const numSections = Math.ceil(quizData.length / sectionSize);
+
+      for (let s = 0; s < numSections; s++) {
+        const sectionDiv = document.createElement('div');
+        sectionDiv.className = 'section';
+        sectionDiv.id = `section-${s}`;
+
+        for (let i = s * sectionSize; i < Math.min((s + 1) * sectionSize, quizData.length); i++) {
+          const q = quizData[i];
+          const questionDiv = document.createElement('div');
+          questionDiv.className = 'question';
+
+          const questionText = document.createElement('p');
+          questionText.innerHTML = `<strong>Q${i + 1}:</strong> ${q.question}`;
+          questionDiv.appendChild(questionText);
+
+          const choicesDiv = document.createElement('div');
+          choicesDiv.className = 'choices';
+          q.choices.forEach((choice, j) => {
+            const label = document.createElement('label');
+            const input = document.createElement('input');
+            input.type = 'radio';
+            input.name = `q${i}`;
+            input.value = choice;
+            input.onchange = () => handleAnswer(i, choice, q);
+            label.appendChild(input);
+            label.append(` ${choice}`);
+            choicesDiv.appendChild(label);
+          });
+
+          const feedback = document.createElement('div');
+          feedback.className = 'feedback';
+          feedback.id = `feedback-${i}`;
+
+          questionDiv.appendChild(choicesDiv);
+          questionDiv.appendChild(feedback);
+          sectionDiv.appendChild(questionDiv);
+        }const nav = document.createElement('div');
+        nav.className = 'section-nav';
+        // removed redeclaration to fix quiz loading
+        for (let i = 0; i < numSections; i++) {
+          const btn = document.createElement('button');
+          btn.textContent = `Section ${i + 1}`;
+          btn.onclick = () => showSection(i);
+          nav.appendChild(btn);
+        }
+        sectionDiv.appendChild(nav);
+        quizDiv.appendChild(sectionDiv);
+      }
+    }
+
+    function handleAnswer(index, selected, question) {
+      const feedback = document.getElementById(`feedback-${index}`);
+      const correctAnswer = question.correctText;
+      const allInputs = document.getElementsByName(`q${index}`);
+
+      allInputs.forEach(input => input.disabled = true);
+
+      if (selected.trim() === correctAnswer.trim()) {
+        feedback.textContent = 'Correct!';
+        feedback.style.color = 'green';
+        score++;
+      } else {
+        feedback.textContent = `Incorrect. Correct answer: ${correctAnswer}`;
+        feedback.style.color = 'red';
+      }
+      updateProgress();
+    }
+
+    function updateProgress() {
+      const percent = Math.round((score / total) * 100);
+      const progress = document.getElementById('progress');
+      progress.style.width = percent + '%';
+      progress.textContent = `${score} / ${total} (${percent}%)`;
+    }
+
+    function submitQuiz() {
+      document.getElementById('results').style.display = 'none';
+      document.getElementById('summary-page').style.display = 'block';
+      document.getElementById('final-score').textContent = `Final Score: ${score} out of ${total} (${Math.round((score / total) * 100)}%)`;
+    }
+
+    function retakeQuiz() {
+      location.reload();
+    }
+
+    function createSectionButtons() {
+      const nav = document.getElementById('nav-buttons');
+      const numSections = Math.ceil(quizData.length / 50);
+      for (let i = 0; i < numSections; i++) {
+        const btn = document.createElement('button');
+        btn.textContent = `Section ${i + 1}`;
+        btn.onclick = () => showSection(i);
+        nav.appendChild(btn);
+      }
+    }
+
+    function showSection(index) {
+      document.querySelectorAll('.section').forEach(sec => sec.classList.remove('active'));
+      const section = document.getElementById(`section-${index}`);
+      if (section) section.classList.add('active');
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  </script>
+</body>
+</html>
