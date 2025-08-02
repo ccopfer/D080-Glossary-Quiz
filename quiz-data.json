@@ -1,0 +1,3255 @@
+{
+  "title": "D080 Glossary Fill-in-the-Blank Exam",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which human resource approach leads to more fluid movement among employees and creates diversity in the workforce?",
+      "choices": [
+        "  Reengineering ",
+        "Geocentric",
+        "  To reduce trade barriers and promote international trade ",
+        "  Paris Agreement "
+      ],
+      "answer": 1,
+      "explanation": "Geocentric"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Worldwide interconnections in virtually every sphere of activity, including the spread of products, technology, information, and job opportunities, describe which process?",
+      "choices": [
+        "Globalization",
+        "  Entering new markets without establishing operations abroad ",
+        "  Process automation ",
+        "  Paris Agreement "
+      ],
+      "answer": 0,
+      "explanation": "Globalization"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - The action of buying and selling goods and services is referred to as:",
+      "choices": [
+        "  To ensure global financial stability ",
+        "Trade",
+        "  Foreign direct investment ",
+        "  Free trade area "
+      ],
+      "answer": 1,
+      "explanation": "Trade"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Financial assets such as funds, equipment, facilities, and other means of production are known as:",
+      "choices": [
+        "Capital",
+        "  Subsidy ",
+        "  Cost ",
+        "  Economic union "
+      ],
+      "answer": 0,
+      "explanation": "Capital"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - To obtain goods or services from an outside or foreign supplier is known as:",
+      "choices": [
+        "  Overseeing the international exchange rate system ",
+        "  To protect personal data of individuals within the EU ",
+        "Outsourcing",
+        "  Dumping "
+      ],
+      "answer": 2,
+      "explanation": "Outsourcing"
+    },
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Not-for-profit organizations that are independent of the government and are active in humanitarian causes are called:",
+      "choices": [
+        "  Portfolio investment ",
+        "  Product development ",
+        "  Crowdsourcing ",
+        "Nongovernmental organizations (NGOs)"
+      ],
+      "answer": 3,
+      "explanation": "Nongovernmental organizations (NGOs)"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which type of globalization refers to the international movement of goods, capital, and services?",
+      "choices": [
+        "  Common external tariffs for non-member countries ",
+        "Economic",
+        "  Brownfield investment ",
+        "  Economic "
+      ],
+      "answer": 1,
+      "explanation": "Economic"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What term protects inventions and improvements to existing inventions for a limited period in exchange for detailed public disclosure?",
+      "choices": [
+        "  Matrix structure ",
+        "  Currency swap contract ",
+        "  To collect and analyze data on all aspects of business operations ",
+        "Patents"
+      ],
+      "answer": 3,
+      "explanation": "Patents"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - A government authority or license giving the owner of an invention the right to exclude others from making or selling the invention for a set period is called:",
+      "choices": [
+        "  It leverages the best talent from both the home and host countries ",
+        "  To promote ethical business practices and contribute to societal goals ",
+        "  Balancing global efficiency with local responsiveness ",
+        "Patent"
+      ],
+      "answer": 3,
+      "explanation": "Patent"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Protection for any word, name, symbol, device, or any combination used in commerce to identify and distinguish goods of one manufacturer or seller is called:",
+      "choices": [
+        "  To ensure accountability and transparency in decision-making ",
+        "Trademark",
+        "  Micro risk ",
+        "  Gross domestic product (GDP) "
+      ],
+      "answer": 1,
+      "explanation": "Trademark"
+    },
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - A useful or valuable thing, such as a building, inventory, or cash, is called:",
+      "choices": [
+        "  Market economy ",
+        "  Foreign direct investment ",
+        "Asset",
+        "  It disproportionately benefits developed countries "
+      ],
+      "answer": 2,
+      "explanation": "Asset"
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Being responsible for a debt or financial obligation is called:",
+      "choices": [
+        "  Floating exchange rate ",
+        "Liability",
+        "  Dumping ",
+        "  Trade surplus "
+      ],
+      "answer": 1,
+      "explanation": "Liability"
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - A monetary contract between parties is known as:",
+      "choices": [
+        "  Power distance ",
+        "  Balance of payments ",
+        "  Legal ",
+        "Financial instrument"
+      ],
+      "answer": 3,
+      "explanation": "Financial instrument"
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - A large corporation incorporated in one country that produces or sells goods or services in various countries is referred to as:",
+      "choices": [
+        "  To provide loans for development projects in poor countries ",
+        "Multinational firm",
+        "  Technological advancements ",
+        "  It imposes conditions on loans that may harm developing countries "
+      ],
+      "answer": 1,
+      "explanation": "Multinational firm"
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - The first stage of going global, when companies enter new countries using business models similar to those deployed in their home markets, is called:",
+      "choices": [
+        "  Macro risk ",
+        "  Reducing risk ",
+        "  Gini coefficient ",
+        "Market entry"
+      ],
+      "answer": 3,
+      "explanation": "Market entry"
+    },
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - A proportionate saving in costs gained by an increased level of production is known as:",
+      "choices": [
+        "  Supply chain ",
+        "Economies of scale",
+        "  Technological advancements ",
+        "  Offering unique products tailored to each market "
+      ],
+      "answer": 1,
+      "explanation": "Economies of scale"
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Developing efficiencies in terms of variety rather than volume is referred to as:",
+      "choices": [
+        "  World Bank ",
+        "Economies of scope",
+        "  Asset ",
+        "  Foreign Corrupt Practices Act "
+      ],
+      "answer": 1,
+      "explanation": "Economies of scope"
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which type of globalization driver is a CEO using if they focus on economies of scale and scope to increase profits?",
+      "choices": [
+        "  Legal ",
+        "  Power distance ",
+        "  It allows for transparent and secure transactions without intermediaries ",
+        "Cost"
+      ],
+      "answer": 3,
+      "explanation": "Cost"
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What challenge to international business expansion is presented when a country offers low labor costs but has poor road conditions?",
+      "choices": [
+        "Infrastructure",
+        "  Adhering to environmental and ethical standards ",
+        "  Relying on home-country nationals for key management positions ",
+        "  Localization "
+      ],
+      "answer": 0,
+      "explanation": "Infrastructure"
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - A method that provides tools for organizations to increase performance and decrease process variation is called:",
+      "choices": [
+        "  Macro risk ",
+        "Six Sigma",
+        "  Adapting products and services to fit the local market ",
+        "  To hedge against exchange rate risk "
+      ],
+      "answer": 1,
+      "explanation": "Six Sigma"
+    },
+    {
+      "id": 21,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which factor in the CAGE model addresses differences in country size that affect barriers to globalization?",
+      "choices": [
+        "  World Trade Organization ",
+        "  Multinational firm ",
+        "  Diversification ",
+        "Economic"
+      ],
+      "answer": 3,
+      "explanation": "Economic"
+    },
+    {
+      "id": 22,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - The measure of inequality among values of a frequency distribution, such as levels of income, is called:",
+      "choices": [
+        "Gini coefficient",
+        "  Free trade area ",
+        "  To ensure global financial stability ",
+        "  Debt financing "
+      ],
+      "answer": 0,
+      "explanation": "Gini coefficient"
+    },
+    {
+      "id": 23,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - The measure of how well nations are doing at achieving long, happy, sustainable lives is called:",
+      "choices": [
+        "Happy Planet Index",
+        "  Greenfield investment ",
+        "  Fixed exchange rate ",
+        "  Provide financial assistance to developing countries "
+      ],
+      "answer": 0,
+      "explanation": "Happy Planet Index"
+    },
+    {
+      "id": 24,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which argument is used by critics to discourage movement toward globalization?",
+      "choices": [
+        "  To minimize potential losses from adverse price movements ",
+        "  Nongovernmental organizations (NGOs) ",
+        "  Elimination of tariffs between member countries ",
+        "It increases the wealth of the rich more than the poor"
+      ],
+      "answer": 3,
+      "explanation": "It increases the wealth of the rich more than the poor"
+    },
+    {
+      "id": 25,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - The total value of goods and services produced in a country in a one-year period is known as:",
+      "choices": [
+        "Gross domestic product",
+        "  TRIPS ",
+        "  Penetration pricing ",
+        "  Six Sigma "
+      ],
+      "answer": 0,
+      "explanation": "Gross domestic product"
+    },
+    {
+      "id": 26,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - The total value of goods and services provided by a country, both inside and outside of its borders, in a one-year period is called:",
+      "choices": [
+        "  Six Sigma ",
+        "Gross national product",
+        "  Gross domestic product ",
+        "  To settle trade disputes between countries "
+      ],
+      "answer": 1,
+      "explanation": "Gross national product"
+    },
+    {
+      "id": 27,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which type of economy is decentralized and allows firms and households to participate in global trade with minimum governmental interference?",
+      "choices": [
+        "Market",
+        "  MERCOSUR ",
+        "  Common market ",
+        "  Technological advancements "
+      ],
+      "answer": 0,
+      "explanation": "Market"
+    },
+    {
+      "id": 28,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which type of legal system is based on a code and focuses on how the law is applied to the facts?",
+      "choices": [
+        "  Skimming pricing ",
+        "  Asset ",
+        "  Uniform external trade policies with non-members ",
+        "Civil"
+      ],
+      "answer": 3,
+      "explanation": "Civil"
+    },
+    {
+      "id": 29,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which law is based on tradition and precedent, where judicial rulings can stand as precedents for future cases?",
+      "choices": [
+        "  Options contract ",
+        "  Minimizes exchange rate risks ",
+        "Common",
+        "  It imposes conditions on loans that may harm developing countries "
+      ],
+      "answer": 2,
+      "explanation": "Common"
+    },
+    {
+      "id": 30,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - In which legal system does a judge decide the applicable law for the case as a jury determines the facts?",
+      "choices": [
+        "  TRIPS ",
+        "Common",
+        "  Common law ",
+        "  Balancing global efficiency with local responsiveness "
+      ],
+      "answer": 1,
+      "explanation": "Common"
+    },
+    {
+      "id": 31,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which organization encourages developing countries to borrow for development projects and supports economic growth?",
+      "choices": [
+        "  High transportation costs ",
+        "  Deregulation ",
+        "World Bank",
+        "  Hedging "
+      ],
+      "answer": 2,
+      "explanation": "World Bank"
+    },
+    {
+      "id": 32,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which organization oversees the international monetary system, including exchange rates, and provides financial assistance to member countries?",
+      "choices": [
+        "  Overseeing the international exchange rate system ",
+        "International Monetary Fund",
+        "  Fraudulent reporting ",
+        "  Product development "
+      ],
+      "answer": 1,
+      "explanation": "International Monetary Fund"
+    },
+    {
+      "id": 33,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - The difference in total value between payments into and out of a country over a period of time is called:",
+      "choices": [
+        "  Common market ",
+        "  Cost ",
+        "  To collect and organize data for analysis ",
+        "Balance of payments"
+      ],
+      "answer": 3,
+      "explanation": "Balance of payments"
+    },
+    {
+      "id": 34,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which currency exchange system allows a currency\u2019s value to fluctuate according to market forces?",
+      "choices": [
+        "  They provide funding and mentorship to early-stage startups ",
+        "  Common market ",
+        "Floating",
+        "  Cost "
+      ],
+      "answer": 2,
+      "explanation": "Floating"
+    },
+    {
+      "id": 35,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary purpose of the International Monetary Fund (IMF)?",
+      "choices": [
+        "Overseeing the international exchange rate system",
+        "  Capital ",
+        "  To protect domestic industries from foreign competition ",
+        "  Comparative advantage "
+      ],
+      "answer": 0,
+      "explanation": "Overseeing the international exchange rate system"
+    },
+    {
+      "id": 36,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Selling government holdings to private companies is referred to as:",
+      "choices": [
+        "  To protect domestic industries from foreign competition ",
+        "Privatization",
+        "  TRIPS Agreement ",
+        "  Promoting and protecting intellectual property rights "
+      ],
+      "answer": 1,
+      "explanation": "Privatization"
+    },
+    {
+      "id": 37,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - The removal of regulations or restrictions in a particular industry is called:",
+      "choices": [
+        "Deregulation",
+        "  Elimination of internal tariffs and a common external tariff ",
+        "  Reengineering ",
+        "  Financial instrument "
+      ],
+      "answer": 0,
+      "explanation": "Deregulation"
+    },
+    {
+      "id": 38,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which type of currency exchange system fixes a currency\u2019s value against another currency or a basket of currencies?",
+      "choices": [
+        "  Matrix structure ",
+        "  World Bank ",
+        "  Cultural globalization ",
+        "Fixed exchange rate"
+      ],
+      "answer": 3,
+      "explanation": "Fixed exchange rate"
+    },
+    {
+      "id": 39,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is a criticism of the World Bank?",
+      "choices": [
+        "  Liability ",
+        "  Producing goods in advance based on forecasted demand ",
+        "It imposes conditions that may harm developing countries",
+        "  Perfect competition "
+      ],
+      "answer": 2,
+      "explanation": "It imposes conditions that may harm developing countries"
+    },
+    {
+      "id": 40,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which strategic network works toward decreasing tariff rates and protecting commerce and intellectual property globally?",
+      "choices": [
+        "  Brownfield investment ",
+        "  Power distance ",
+        "World Trade Organization",
+        "  To protect consumers from unfair business practices "
+      ],
+      "answer": 2,
+      "explanation": "World Trade Organization"
+    },
+    {
+      "id": 41,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - The practice of selling a product in a foreign market at a price lower than its production cost or lower than in its domestic market is called:",
+      "choices": [
+        "Dumping",
+        "  Perfect competition ",
+        "  Brownfield investment ",
+        "  Common trade policies toward non-member countries "
+      ],
+      "answer": 0,
+      "explanation": "Dumping"
+    },
+    {
+      "id": 42,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the main function of the World Trade Organization (WTO)?",
+      "choices": [
+        "  Power distance ",
+        "  To hedge against exchange rate risk ",
+        "To settle trade disputes between countries",
+        "  Global standardization strategy "
+      ],
+      "answer": 2,
+      "explanation": "To settle trade disputes between countries"
+    },
+    {
+      "id": 43,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - When a country\u2019s value of exports is greater than its value of imports, this is referred to as:",
+      "choices": [
+        "  Economic ",
+        "Trade surplus",
+        "  Economic union ",
+        "  TRIPS Agreement "
+      ],
+      "answer": 1,
+      "explanation": "Trade surplus"
+    },
+    {
+      "id": 44,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - When countries voluntarily limit the amount of goods they export to another country to avoid trade restrictions, this is called:",
+      "choices": [
+        "  Seeks high returns by investing in early-stage startups ",
+        "  Penetration pricing ",
+        "Voluntary export restriction",
+        "  Tariff "
+      ],
+      "answer": 2,
+      "explanation": "Voluntary export restriction"
+    },
+    {
+      "id": 45,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - The process of obtaining funds from a large number of small investors, often via online platforms, is called:",
+      "choices": [
+        "Crowdsourcing",
+        "  Glocalization ",
+        "  NAFTA ",
+        "  World Bank "
+      ],
+      "answer": 0,
+      "explanation": "Crowdsourcing"
+    },
+    {
+      "id": 46,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - The inequality between groups to access knowledge and use of information and communication technologies is referred to as:",
+      "choices": [
+        "  Common external tariffs for non-member countries ",
+        "  It imposes conditions that may harm developing countries ",
+        "  Embargo ",
+        "Digital divide"
+      ],
+      "answer": 3,
+      "explanation": "Digital divide"
+    },
+    {
+      "id": 47,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - A specialized agency of the United Nations responsible for communication and information issues is called:",
+      "choices": [
+        "  Matrix structure ",
+        "  Macro risk ",
+        "International Telecommunication Union",
+        "  Macro risk "
+      ],
+      "answer": 2,
+      "explanation": "International Telecommunication Union"
+    },
+    {
+      "id": 48,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which areas traditionally suffer from the digital divide?",
+      "choices": [
+        "  Nongovernmental organizations (NGOs) ",
+        "  To protect inventions, trademarks, and copyrights across borders ",
+        "  Economies of scope ",
+        "Rural areas"
+      ],
+      "answer": 3,
+      "explanation": "Rural areas"
+    },
+    {
+      "id": 49,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - A government is managing a difficult economy that appears to be at a standstill and a direct tax rate that is rapidly decreasing. The government decides to use an indirect tax to improve the situation. Which tax did the government use?",
+      "choices": [
+        "  Balancing global efficiency with local responsiveness ",
+        "Goods and services tax",
+        "  Portfolio investment ",
+        "  Dumping "
+      ],
+      "answer": 1,
+      "explanation": "Goods and services tax"
+    },
+    {
+      "id": 50,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which globalization risk refers to the adherence to laws of countries in which an organization may operate?",
+      "choices": [
+        "Legal",
+        "  It imposes conditions that may harm developing countries ",
+        "  Dumping ",
+        "  Integration of digital and physical systems "
+      ],
+      "answer": 0,
+      "explanation": "Legal"
+    },
+    {
+      "id": 51,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the term for a company\u2019s practice of moving jobs to a foreign location where labor costs are lower?",
+      "choices": [
+        "  Protective tariff ",
+        "  Economies of scope ",
+        "Offshoring",
+        "  Increased flow of goods, services, and capital across borders "
+      ],
+      "answer": 2,
+      "explanation": "Offshoring"
+    },
+    {
+      "id": 52,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which pricing strategy involves setting high prices for new products to maximize revenue from early adopters?",
+      "choices": [
+        "  It increases the wealth of the rich more than the poor ",
+        "Price skimming",
+        "  Faster decision-making at all levels ",
+        "  Stabilize exchange rates and promote international monetary cooperation "
+      ],
+      "answer": 1,
+      "explanation": "Price skimming"
+    },
+    {
+      "id": 53,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which concept involves tailoring a company\u2019s products and strategies to fit local markets while maintaining a global presence?",
+      "choices": [
+        "  Civil ",
+        "Glocalization",
+        "  Six Sigma ",
+        "  Access to a large number of investors contributing small amounts "
+      ],
+      "answer": 1,
+      "explanation": "Glocalization"
+    },
+    {
+      "id": 54,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the term for a country limiting the amount of a particular product that can be imported from another country?",
+      "choices": [
+        "  Punish or pressure foreign governments ",
+        "  Product structure ",
+        "Quota",
+        "  World Bank "
+      ],
+      "answer": 2,
+      "explanation": "Quota"
+    },
+    {
+      "id": 55,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which term refers to selling goods in a foreign market at a price below their cost of production?",
+      "choices": [
+        "  Political instability ",
+        "  Comparative advantage ",
+        "  Offshoring ",
+        "Dumping"
+      ],
+      "answer": 3,
+      "explanation": "Dumping"
+    },
+    {
+      "id": 56,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What type of market structure has many buyers and sellers, identical products, and no barriers to entry?",
+      "choices": [
+        "  Employees may feel disconnected from decision-making ",
+        "Perfect competition",
+        "  Franchising ",
+        "  Uncertainty avoidance "
+      ],
+      "answer": 1,
+      "explanation": "Perfect competition"
+    },
+    {
+      "id": 57,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which exchange rate system allows a currency to fluctuate according to supply and demand in the market?",
+      "choices": [
+        "  Market ",
+        "Floating exchange rate",
+        "  To protect personal data of individuals within the EU ",
+        "  Crowdsourcing "
+      ],
+      "answer": 1,
+      "explanation": "Floating exchange rate"
+    },
+    {
+      "id": 58,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which practice involves a company acquiring or merging with another company in a foreign country to expand its operations?",
+      "choices": [
+        "  Foreign Corrupt Practices Act ",
+        "  Price skimming ",
+        "  Diversification ",
+        "Foreign direct investment"
+      ],
+      "answer": 3,
+      "explanation": "Foreign direct investment"
+    },
+    {
+      "id": 59,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What type of tax is imposed on imported goods to protect domestic industries?",
+      "choices": [
+        "  Religious law ",
+        "  Employees may feel disconnected from decision-making ",
+        "  Product structure ",
+        "Tariff"
+      ],
+      "answer": 3,
+      "explanation": "Tariff"
+    },
+    {
+      "id": 60,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which trade organization oversees international trade agreements and helps resolve disputes between member countries?",
+      "choices": [
+        "  To hedge against currency depreciation ",
+        "World Trade Organization",
+        "  Common market ",
+        "  Increased flow of goods, services, and capital across borders "
+      ],
+      "answer": 1,
+      "explanation": "World Trade Organization"
+    },
+    {
+      "id": 61,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which legal system is based on written codes and laws, rather than on judicial precedents?",
+      "choices": [
+        "  TRIPS Agreement ",
+        "  Reengineering ",
+        "Civil law",
+        "  To promote ethical business practices and contribute to societal goals "
+      ],
+      "answer": 2,
+      "explanation": "Civil law"
+    },
+    {
+      "id": 62,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which term refers to an economy where private businesses operate for profit with limited government interference?",
+      "choices": [
+        "  Minimizes exchange rate risks ",
+        "  Promotional pricing ",
+        "  Tariff ",
+        "Market economy"
+      ],
+      "answer": 3,
+      "explanation": "Market economy"
+    },
+    {
+      "id": 63,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which agreement reduced tariffs and trade barriers between the United States, Canada, and Mexico?",
+      "choices": [
+        "NAFTA",
+        "  Religious law ",
+        "  Glocalization ",
+        "  Dumping "
+      ],
+      "answer": 0,
+      "explanation": "NAFTA"
+    },
+    {
+      "id": 64,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the purpose of intellectual property rights, such as patents and copyrights?",
+      "choices": [
+        "  World Trade Organization ",
+        "  Portfolio investment ",
+        "To protect creative and innovative works",
+        "  Employees at all levels are empowered to make decisions "
+      ],
+      "answer": 2,
+      "explanation": "To protect creative and innovative works"
+    },
+    {
+      "id": 65,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which economic theory suggests that countries should specialize in the production of goods they can produce most efficiently?",
+      "choices": [
+        "Comparative advantage",
+        "  It increases the wealth of the rich more than the poor ",
+        "  Paris Agreement ",
+        "  Adapting products and services to fit the local market "
+      ],
+      "answer": 0,
+      "explanation": "Comparative advantage"
+    },
+    {
+      "id": 66,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the term for the process by which governments provide financial assistance to domestic industries to help them compete globally?",
+      "choices": [
+        "  Crowdsourcing ",
+        "Subsidy",
+        "  Faster decision-making at all levels ",
+        "  Stabilize exchange rates and promote international monetary cooperation "
+      ],
+      "answer": 1,
+      "explanation": "Subsidy"
+    },
+    {
+      "id": 67,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which financial tool allows investors to buy or sell a currency at a specific rate on a future date to hedge against currency fluctuations?",
+      "choices": [
+        "  Cost ",
+        "  Goods and services tax ",
+        "Currency futures contract",
+        "  To collect and analyze data on all aspects of business operations "
+      ],
+      "answer": 2,
+      "explanation": "Currency futures contract"
+    },
+    {
+      "id": 68,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What type of organizational structure involves dividing a company\u2019s operations based on different product lines?",
+      "choices": [
+        "  Gross national product ",
+        "  Comparative advantage ",
+        "  Integration of digital and physical systems ",
+        "Product structure"
+      ],
+      "answer": 3,
+      "explanation": "Product structure"
+    },
+    {
+      "id": 69,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which concept involves using digital technologies to automate repetitive tasks, enabling workers to focus on more complex responsibilities?",
+      "choices": [
+        "  Promoting and protecting intellectual property rights ",
+        "  Protective tariff ",
+        "  Reducing costs by producing multiple products using the same resources ",
+        "Process automation"
+      ],
+      "answer": 3,
+      "explanation": "Process automation"
+    },
+    {
+      "id": 70,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which international agreement aims to reduce greenhouse gas emissions and combat climate change?",
+      "choices": [
+        "  Process automation ",
+        "Paris Agreement",
+        "  The gap between rich and poor countries in internet access and use ",
+        "  Tariff "
+      ],
+      "answer": 1,
+      "explanation": "Paris Agreement"
+    },
+    {
+      "id": 71,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which term refers to a temporary restriction imposed by a government on the export or import of goods for economic or political reasons?",
+      "choices": [
+        "  Common external tariffs for non-member countries ",
+        "  Common law ",
+        "Embargo",
+        "  Producing goods in advance based on forecasted demand "
+      ],
+      "answer": 2,
+      "explanation": "Embargo"
+    },
+    {
+      "id": 72,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which law prohibits U.S. companies from making corrupt payments to foreign officials to obtain or retain business?",
+      "choices": [
+        "  International Monetary Fund ",
+        "  Comparative advantage ",
+        "  Uncertainty avoidance ",
+        "Foreign Corrupt Practices Act"
+      ],
+      "answer": 3,
+      "explanation": "Foreign Corrupt Practices Act"
+    },
+    {
+      "id": 73,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which of the following is a cooperative institution that helps member countries stabilize their economies by providing financial assistance?",
+      "choices": [
+        "  Cultural globalization ",
+        "International Monetary Fund",
+        "  Employees at all levels are empowered to make decisions ",
+        "  Currency swap contract "
+      ],
+      "answer": 1,
+      "explanation": "International Monetary Fund"
+    },
+    {
+      "id": 74,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which term refers to a company\u2019s ethical responsibility to minimize harm and promote good practices in society and the environment?",
+      "choices": [
+        "  Balance of payments ",
+        "  To ensure that multinational corporations pay fair taxes ",
+        "Corporate social responsibility",
+        "  To set limits on water pollutants discharged into U.S. waterways "
+      ],
+      "answer": 2,
+      "explanation": "Corporate social responsibility"
+    },
+    {
+      "id": 75,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which economic concept measures the total value of goods and services produced within a country\u2019s borders?",
+      "choices": [
+        "  Protective tariff ",
+        "Gross domestic product",
+        "  Increased tax revenue ",
+        "  Provide financial assistance to developing countries "
+      ],
+      "answer": 1,
+      "explanation": "Gross domestic product"
+    },
+    {
+      "id": 76,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which type of trade agreement involves the removal of tariffs and other trade barriers between member countries while maintaining independent trade policies with non-members?",
+      "choices": [
+        "  Trade ",
+        "  Economic stability of the target market ",
+        "Free trade area",
+        "  Balancing global efficiency with local responsiveness "
+      ],
+      "answer": 2,
+      "explanation": "Free trade area"
+    },
+    {
+      "id": 77,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the main advantage of using a transnational strategy in international business?",
+      "choices": [
+        "Ability to customize products for local markets",
+        "  Infrastructure ",
+        "  To protect personal data of individuals within the EU ",
+        "  MERCOSUR "
+      ],
+      "answer": 0,
+      "explanation": "Ability to customize products for local markets"
+    },
+    {
+      "id": 78,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which process involves the redesign of a company\u2019s business processes to achieve significant improvements in performance?",
+      "choices": [
+        "  Franchising ",
+        "  World Trade Organization (WTO) ",
+        "  Common market ",
+        "Reengineering"
+      ],
+      "answer": 3,
+      "explanation": "Reengineering"
+    },
+    {
+      "id": 79,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which strategy involves a company establishing operations in a foreign market by building new facilities from the ground up?",
+      "choices": [
+        "  Increased flow of goods, services, and capital across borders ",
+        "Greenfield investment",
+        "  Currency values are tied to another currency or commodity ",
+        "  UN Convention on Contracts for the International Sale of Goods (CISG) "
+      ],
+      "answer": 1,
+      "explanation": "Greenfield investment"
+    },
+    {
+      "id": 80,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary objective of the World Bank?",
+      "choices": [
+        "  Cultural ",
+        "  Paris Agreement ",
+        "  Adhering to environmental and ethical standards ",
+        "Provide financial assistance to developing countries"
+      ],
+      "answer": 3,
+      "explanation": "Provide financial assistance to developing countries"
+    },
+    {
+      "id": 81,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which term refers to the manipulation of a company\u2019s financial records to deceive stakeholders?",
+      "choices": [
+        "  Foreign direct investment ",
+        "  To promote the development of new communication technologies ",
+        "  Free trade area ",
+        "Fraudulent reporting"
+      ],
+      "answer": 3,
+      "explanation": "Fraudulent reporting"
+    },
+    {
+      "id": 82,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What type of foreign direct investment (FDI) involves acquiring or merging with a local firm in the target country?",
+      "choices": [
+        "  Market ",
+        "  Minimizes exchange rate risks ",
+        "  Entering new markets without establishing operations abroad ",
+        "Brownfield FDI"
+      ],
+      "answer": 3,
+      "explanation": "Brownfield FDI"
+    },
+    {
+      "id": 83,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is a key feature of a customs union?",
+      "choices": [
+        "  To settle trade disputes between countries ",
+        "  Gross national product (GNP) ",
+        "  Balance of payments ",
+        "Common trade policies toward non-member countries"
+      ],
+      "answer": 3,
+      "explanation": "Common trade policies toward non-member countries"
+    },
+    {
+      "id": 84,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the main role of the Financial Accounting Standards Board (FAS?",
+      "choices": [
+        "Develop and issue accounting standards in the U.S.",
+        "  Price skimming ",
+        "  Lower upfront costs and broader market reach ",
+        "  To protect personal data of individuals within the EU "
+      ],
+      "answer": 0,
+      "explanation": "Develop and issue accounting standards in the U.S."
+    },
+    {
+      "id": 85,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which factor of Hofstede\u2019s cultural dimensions addresses how comfortable a society is with uncertainty and ambiguity?",
+      "choices": [
+        "  To standardize and regulate telecommunication technologies ",
+        "Uncertainty avoidance",
+        "  To hedge against exchange rate fluctuations ",
+        "  Currency value is determined by market forces "
+      ],
+      "answer": 1,
+      "explanation": "Uncertainty avoidance"
+    },
+    {
+      "id": 86,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which economic measure captures the total value of goods and services produced by a country\u2019s citizens, regardless of their location?",
+      "choices": [
+        "Gross national product (GNP)",
+        "  Cultural ",
+        "  Promoting and protecting intellectual property rights ",
+        "  Common "
+      ],
+      "answer": 0,
+      "explanation": "Gross national product (GNP)"
+    },
+    {
+      "id": 87,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which business practice refers to an arrangement in which a company grants another business the right to use its brand and operating methods in exchange for a fee?",
+      "choices": [
+        "  To protect consumers from unfair business practices ",
+        "  To minimize the financial risk of entering new markets ",
+        "Franchising",
+        "  Perfect competition "
+      ],
+      "answer": 2,
+      "explanation": "Franchising"
+    },
+    {
+      "id": 88,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which legal system is based on religious teachings and governs personal and public conduct?",
+      "choices": [
+        "  Combining global standardization with local responsiveness ",
+        "Religious law",
+        "  Common market ",
+        "  Elimination of internal tariffs and a common external tariff "
+      ],
+      "answer": 1,
+      "explanation": "Religious law"
+    },
+    {
+      "id": 89,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which factor is likely to increase a company\u2019s exposure to political risk when entering a foreign market?",
+      "choices": [
+        "  Market penetration ",
+        "  Punish or pressure foreign governments ",
+        "Political instability",
+        "  Paris Agreement "
+      ],
+      "answer": 2,
+      "explanation": "Political instability"
+    },
+    {
+      "id": 90,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is a characteristic of a decentralized organizational structure?",
+      "choices": [
+        "  Promoting and protecting intellectual property rights ",
+        "  Initial public offering (IPO) ",
+        "  To establish accounting standards in the United States ",
+        "Employees at all levels are empowered to make decisions"
+      ],
+      "answer": 3,
+      "explanation": "Employees at all levels are empowered to make decisions"
+    },
+    {
+      "id": 91,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which organization provides low-interest loans and grants to help developing countries improve infrastructure and reduce poverty?",
+      "choices": [
+        "  Common ",
+        "  Global standardization strategy ",
+        "  Options contract ",
+        "World Bank"
+      ],
+      "answer": 3,
+      "explanation": "World Bank"
+    },
+    {
+      "id": 92,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which strategy involves a company setting up production facilities in a foreign market to be closer to customers and reduce transportation costs?",
+      "choices": [
+        "  To reduce taxes by shifting profits to low-tax jurisdictions ",
+        "  Financial assistance given by a government to support a domestic industry ",
+        "Foreign direct investment",
+        "  Gross domestic product "
+      ],
+      "answer": 2,
+      "explanation": "Foreign direct investment"
+    },
+    {
+      "id": 93,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which pricing strategy is aimed at gaining market share by offering products at lower prices than competitors?",
+      "choices": [
+        "  Franchising ",
+        "  Quota ",
+        "Market penetration",
+        "  To ensure that multinational corporations pay fair taxes "
+      ],
+      "answer": 2,
+      "explanation": "Market penetration"
+    },
+    {
+      "id": 94,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary purpose of trade sanctions imposed by governments?",
+      "choices": [
+        "Punish or pressure foreign governments",
+        "  Financial assistance given by a government to support a domestic industry ",
+        "  To collect and organize data for analysis ",
+        "  Common external tariffs for non-member countries "
+      ],
+      "answer": 0,
+      "explanation": "Punish or pressure foreign governments"
+    },
+    {
+      "id": 95,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which investment strategy involves purchasing a company\u2019s shares on the stock exchange?",
+      "choices": [
+        "  Preventing unfair competition and promoting market fairness ",
+        "  Perfect competition ",
+        "  World Trade Organization ",
+        "Portfolio investment"
+      ],
+      "answer": 3,
+      "explanation": "Portfolio investment"
+    },
+    {
+      "id": 96,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which type of organizational structure combines elements of both functional and divisional structures?",
+      "choices": [
+        "  To collect and organize data for analysis ",
+        "Matrix structure",
+        "  Market economy ",
+        "  It increases the wealth of the rich more than the poor "
+      ],
+      "answer": 1,
+      "explanation": "Matrix structure"
+    },
+    {
+      "id": 97,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which term describes the complete sequence of activities and processes required to bring a product from raw material to the customer?",
+      "choices": [
+        "  To protect inventions, trademarks, and copyrights across borders ",
+        "Supply chain",
+        "  Cultural globalization ",
+        "  Trade surplus "
+      ],
+      "answer": 1,
+      "explanation": "Supply chain"
+    },
+    {
+      "id": 98,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is a benefit of using hedging strategies in international business?",
+      "choices": [
+        "  Penetration pricing ",
+        "Minimizes exchange rate risks",
+        "  To enhance a company\u2019s reputation and positively impact society ",
+        "  It imposes conditions that may harm developing countries "
+      ],
+      "answer": 1,
+      "explanation": "Minimizes exchange rate risks"
+    },
+    {
+      "id": 99,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which international agreement focuses on the protection of intellectual property rights across member countries?",
+      "choices": [
+        "  Cost ",
+        "  Debt financing ",
+        "TRIPS Agreement",
+        "  Gross domestic product (GDP) "
+      ],
+      "answer": 2,
+      "explanation": "TRIPS Agreement"
+    },
+    {
+      "id": 100,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is a key feature of globalization in the modern world?",
+      "choices": [
+        "  Dumping ",
+        "  To set limits on water pollutants discharged into U.S. waterways ",
+        "Increased flow of goods, services, and capital across borders",
+        "  To protect consumers from unfair business practices "
+      ],
+      "answer": 2,
+      "explanation": "Increased flow of goods, services, and capital across borders"
+    },
+    {
+      "id": 101,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which financial instrument allows the right to buy or sell an asset at a specific price within a set time period?",
+      "choices": [
+        "  Promotional pricing ",
+        "  World Trade Organization ",
+        "Options contract",
+        "  Subsidy "
+      ],
+      "answer": 2,
+      "explanation": "Options contract"
+    },
+    {
+      "id": 102,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary goal of hedging in global business?",
+      "choices": [
+        "  Greenfield investment ",
+        "  Perfect competition ",
+        "  To minimize the risk by spreading investments across different markets ",
+        "Reducing risk"
+      ],
+      "answer": 3,
+      "explanation": "Reducing risk"
+    },
+    {
+      "id": 103,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which type of cultural dimension reflects the extent to which less powerful members of society accept unequal power distribution?",
+      "choices": [
+        "  Product structure ",
+        "Power distance",
+        "  To promote free trade and settle trade disputes ",
+        "  Comparative advantage "
+      ],
+      "answer": 1,
+      "explanation": "Power distance"
+    },
+    {
+      "id": 104,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the main purpose of transfer pricing within multinational corporations?",
+      "choices": [
+        "  Adapting products and services to fit the local market ",
+        "  Employees may feel disconnected from decision-making ",
+        "  Brownfield FDI ",
+        "To optimize global tax strategies"
+      ],
+      "answer": 3,
+      "explanation": "To optimize global tax strategies"
+    },
+    {
+      "id": 105,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which economic theory suggests that countries should specialize in producing goods with the lowest opportunity cost?",
+      "choices": [
+        "  Free trade area ",
+        "  Glocalization ",
+        "Comparative advantage",
+        "  Currency futures contract "
+      ],
+      "answer": 2,
+      "explanation": "Comparative advantage"
+    },
+    {
+      "id": 106,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which organization is responsible for resolving trade disputes and promoting free trade among its member countries?",
+      "choices": [
+        "  Promotional pricing ",
+        "World Trade Organization (WTO)",
+        "  International Monetary Fund ",
+        "  To collect and organize data for analysis "
+      ],
+      "answer": 1,
+      "explanation": "World Trade Organization (WTO)"
+    },
+    {
+      "id": 107,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the main benefit of economies of scale?",
+      "choices": [
+        "  International Telecommunication Union ",
+        "  To ensure global financial stability ",
+        "Lower production costs per unit",
+        "  Penetration pricing "
+      ],
+      "answer": 2,
+      "explanation": "Lower production costs per unit"
+    },
+    {
+      "id": 108,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which legal system is primarily based on precedents and judicial rulings rather than written laws?",
+      "choices": [
+        "Common law",
+        "  Technological advancements ",
+        "  To resolve trade disputes between member nations ",
+        "  Fixed exchange rate "
+      ],
+      "answer": 0,
+      "explanation": "Common law"
+    },
+    {
+      "id": 109,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is a key feature of a customs union?",
+      "choices": [
+        "  Controlling the supply chain by acquiring suppliers or distributors ",
+        "  Seeks high returns by investing in early-stage startups ",
+        "  It allows for transparent and secure transactions without intermediaries ",
+        "Uniform external trade policies with non-members"
+      ],
+      "answer": 3,
+      "explanation": "Uniform external trade policies with non-members"
+    },
+    {
+      "id": 110,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary goal of the International Monetary Fund (IMF)?",
+      "choices": [
+        "  Free movement of goods, services, labor, and capital between member states ",
+        "Stabilize exchange rates and promote international monetary cooperation",
+        "  Nongovernmental organizations (NGOs) ",
+        "  Ability to customize products for local markets "
+      ],
+      "answer": 1,
+      "explanation": "Stabilize exchange rates and promote international monetary cooperation"
+    },
+    {
+      "id": 111,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which term refers to the complete sequence of activities involved in producing and delivering a product to consumers?",
+      "choices": [
+        "Supply chain",
+        "  To minimize the environmental impact of business operations ",
+        "  Paris Agreement ",
+        "  Free movement of goods, services, labor, and capital between member states "
+      ],
+      "answer": 0,
+      "explanation": "Supply chain"
+    },
+    {
+      "id": 112,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which strategy focuses on offering the same product worldwide with minimal changes?",
+      "choices": [
+        "  Gross national product (GNP) ",
+        "  Balancing global efficiency with local responsiveness ",
+        "Global standardization strategy",
+        "  Product structure "
+      ],
+      "answer": 2,
+      "explanation": "Global standardization strategy"
+    },
+    {
+      "id": 113,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which financial instrument involves exchanging currencies at a predetermined rate at a future date?",
+      "choices": [
+        "  To hedge against exchange rate risk ",
+        "  Trade surplus ",
+        "Forward contract",
+        "  Gross domestic product (GDP) "
+      ],
+      "answer": 2,
+      "explanation": "Forward contract"
+    },
+    {
+      "id": 114,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which aspect of globalization involves the spread of ideas, languages, and cultural practices across borders?",
+      "choices": [
+        "Cultural globalization",
+        "  Gaining access to local knowledge with low financial risk ",
+        "  To reduce trade barriers and promote international trade ",
+        "  Currency value is determined by market forces "
+      ],
+      "answer": 0,
+      "explanation": "Cultural globalization"
+    },
+    {
+      "id": 115,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the main benefit of using a decentralized organizational structure?",
+      "choices": [
+        "  Subsidy ",
+        "  Initial public offering (IPO) ",
+        "Faster decision-making at all levels",
+        "  Dumping "
+      ],
+      "answer": 2,
+      "explanation": "Faster decision-making at all levels"
+    },
+    {
+      "id": 116,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which international agreement focuses on reducing greenhouse gas emissions to combat climate change?",
+      "choices": [
+        "Paris Agreement",
+        "  Many buyers and sellers with no control over prices ",
+        "  To protect consumers from unfair business practices ",
+        "  Product development "
+      ],
+      "answer": 0,
+      "explanation": "Paris Agreement"
+    },
+    {
+      "id": 117,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which concept refers to the process of adjusting products or services to meet the preferences of local markets?",
+      "choices": [
+        "Localization",
+        "  Currency value is determined by market forces ",
+        "  Floating exchange rate ",
+        "  Provide financial assistance to developing countries "
+      ],
+      "answer": 0,
+      "explanation": "Localization"
+    },
+    {
+      "id": 118,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is a key characteristic of the Fourth Industrial Revolution?",
+      "choices": [
+        "  Access to a large number of investors contributing small amounts ",
+        "Integration of digital and physical systems",
+        "  To provide loans for development projects in poor countries ",
+        "  TRIPS Agreement "
+      ],
+      "answer": 1,
+      "explanation": "Integration of digital and physical systems"
+    },
+    {
+      "id": 119,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary purpose of a currency swap contract?",
+      "choices": [
+        "To hedge against exchange rate fluctuations",
+        "  Develop and issue accounting standards in the U.S. ",
+        "  Entering new markets without establishing operations abroad ",
+        "  Balance of payments "
+      ],
+      "answer": 0,
+      "explanation": "To hedge against exchange rate fluctuations"
+    },
+    {
+      "id": 120,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which type of organizational structure groups employees by both function and product?",
+      "choices": [
+        "  Comparative advantage ",
+        "  Uncertainty avoidance ",
+        "Matrix structure",
+        "  Reducing risk "
+      ],
+      "answer": 2,
+      "explanation": "Matrix structure"
+    },
+    {
+      "id": 121,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the main benefit of foreign direct investment (FDI) for host countries?",
+      "choices": [
+        "  Micro risk ",
+        "  To increase corporate transparency and reduce fraud ",
+        "  Free trade area ",
+        "Increased tax revenue"
+      ],
+      "answer": 3,
+      "explanation": "Increased tax revenue"
+    },
+    {
+      "id": 122,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the main feature of a floating exchange rate system?",
+      "choices": [
+        "Currency value is determined by market forces",
+        "  Floating exchange rate ",
+        "  Gross domestic product (GDP) ",
+        "  Command economy "
+      ],
+      "answer": 0,
+      "explanation": "Currency value is determined by market forces"
+    },
+    {
+      "id": 123,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which global strategy focuses on developing entirely new products or services for international markets?",
+      "choices": [
+        "  Paris Agreement ",
+        "  World Bank ",
+        "  Common law ",
+        "Diversification"
+      ],
+      "answer": 3,
+      "explanation": "Diversification"
+    },
+    {
+      "id": 124,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which pricing strategy involves charging a high initial price to recover investment costs and then gradually lowering the price over time?",
+      "choices": [
+        "Price skimming",
+        "  Common market ",
+        "  Provide financial assistance to developing countries ",
+        "  Diversification "
+      ],
+      "answer": 0,
+      "explanation": "Price skimming"
+    },
+    {
+      "id": 125,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the purpose of anti-dumping laws in international trade?",
+      "choices": [
+        "To prevent foreign companies from selling goods below cost",
+        "  To protect inventions, trademarks, and copyrights across borders ",
+        "  Currency value is determined by market forces ",
+        "  Reducing risk "
+      ],
+      "answer": 0,
+      "explanation": "To prevent foreign companies from selling goods below cost"
+    },
+    {
+      "id": 126,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which organization provides low-interest loans to developing countries for projects aimed at improving infrastructure and reducing poverty?",
+      "choices": [
+        "  To protect creative and innovative works ",
+        "  Civil law ",
+        "World Bank",
+        "  Common "
+      ],
+      "answer": 2,
+      "explanation": "World Bank"
+    },
+    {
+      "id": 127,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which type of economic integration involves the free movement of goods, services, and factors of production among member countries?",
+      "choices": [
+        "  Digital divide ",
+        "  To promote sustainable development and global trade ",
+        "Common market",
+        "  Patent "
+      ],
+      "answer": 2,
+      "explanation": "Common market"
+    },
+    {
+      "id": 128,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary benefit of economies of scope?",
+      "choices": [
+        "Reducing costs by producing multiple products using the same resources",
+        "  To minimize the financial risk of entering new markets ",
+        "  Gross domestic product ",
+        "  World Bank "
+      ],
+      "answer": 0,
+      "explanation": "Reducing costs by producing multiple products using the same resources"
+    },
+    {
+      "id": 129,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is a key criticism of the World Trade Organization (WTO)?",
+      "choices": [
+        "It disproportionately benefits developed countries",
+        "  Gross national product ",
+        "  To provide loans for development projects in poor countries ",
+        "  Currency values are tied to another currency or commodity "
+      ],
+      "answer": 0,
+      "explanation": "It disproportionately benefits developed countries"
+    },
+    {
+      "id": 130,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which pricing strategy involves setting a low price to gain market share quickly, then raising prices once a customer base is established?",
+      "choices": [
+        "  Political instability ",
+        "  Civil ",
+        "  International Telecommunication Union ",
+        "Penetration pricing"
+      ],
+      "answer": 3,
+      "explanation": "Penetration pricing"
+    },
+    {
+      "id": 131,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the goal of the International Telecommunication Union (ITU)?",
+      "choices": [
+        "  To collect and analyze data on all aspects of business operations ",
+        "  To ensure global financial stability ",
+        "To standardize and regulate telecommunication technologies",
+        "  Controlling the supply chain by acquiring suppliers or distributors "
+      ],
+      "answer": 2,
+      "explanation": "To standardize and regulate telecommunication technologies"
+    },
+    {
+      "id": 132,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary purpose of corporate social responsibility (CSR) initiatives?",
+      "choices": [
+        "  To set limits on water pollutants discharged into U.S. waterways ",
+        "  Offshoring ",
+        "  Promoting and protecting intellectual property rights ",
+        "To enhance a company\u2019s reputation and positively impact society"
+      ],
+      "answer": 3,
+      "explanation": "To enhance a company\u2019s reputation and positively impact society"
+    },
+    {
+      "id": 133,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which factor most significantly affects a country\u2019s comparative advantage in global trade?",
+      "choices": [
+        "  To hedge against exchange rate risk ",
+        "Technological advancements",
+        "  Economic union ",
+        "  Macro risk "
+      ],
+      "answer": 1,
+      "explanation": "Technological advancements"
+    },
+    {
+      "id": 134,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What does the term \u201cdigital divide\u201d refer to in the context of globalization?",
+      "choices": [
+        "The gap between rich and poor countries in internet access and use",
+        "  Adhering to environmental and ethical standards ",
+        "  It increases the wealth of the rich more than the poor ",
+        "  Product development "
+      ],
+      "answer": 0,
+      "explanation": "The gap between rich and poor countries in internet access and use"
+    },
+    {
+      "id": 135,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the purpose of antitrust laws in global business?",
+      "choices": [
+        "  Common trade policies toward non-member countries ",
+        "  World Bank ",
+        "  To promote ethical business practices and contribute to societal goals ",
+        "To prevent monopolistic practices and promote competition"
+      ],
+      "answer": 3,
+      "explanation": "To prevent monopolistic practices and promote competition"
+    },
+    {
+      "id": 136,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which term refers to the act of a company moving its operations to a foreign country to reduce costs?",
+      "choices": [
+        "  World Bank ",
+        "  To protect creative and innovative works ",
+        "  NAFTA ",
+        "Offshoring"
+      ],
+      "answer": 3,
+      "explanation": "Offshoring"
+    },
+    {
+      "id": 137,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is a key characteristic of a transnational strategy in global business?",
+      "choices": [
+        "  Protective tariff ",
+        "  Greenfield investment ",
+        "  It increases the wealth of the rich more than the poor ",
+        "Combining global standardization with local responsiveness"
+      ],
+      "answer": 3,
+      "explanation": "Combining global standardization with local responsiveness"
+    },
+    {
+      "id": 138,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary purpose of the United Nations Conference on Trade and Development (UNCTA?",
+      "choices": [
+        "  Foreign direct investment ",
+        "  Gross Domestic Product (GDP) ",
+        "To promote sustainable development and global trade",
+        "  Digital divide "
+      ],
+      "answer": 2,
+      "explanation": "To promote sustainable development and global trade"
+    },
+    {
+      "id": 139,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which economic integration stage involves the harmonization of economic policies between member states?",
+      "choices": [
+        "  Adhering to environmental and ethical standards ",
+        "Economic union",
+        "  Gross domestic product ",
+        "  Financial assistance given by a government to support a domestic industry "
+      ],
+      "answer": 1,
+      "explanation": "Economic union"
+    },
+    {
+      "id": 140,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary role of the Financial Accounting Standards Board (FAS?",
+      "choices": [
+        "  Free trade area ",
+        "  Stabilize exchange rates and promote international monetary cooperation ",
+        "To establish accounting standards in the United States",
+        "  Initial public offering (IPO) "
+      ],
+      "answer": 2,
+      "explanation": "To establish accounting standards in the United States"
+    },
+    {
+      "id": 141,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the key feature of a fixed exchange rate system?",
+      "choices": [
+        "Currency values are tied to another currency or commodity",
+        "  Common trade policies toward non-member countries ",
+        "  Comparative advantage ",
+        "  To prevent foreign companies from selling goods below cost "
+      ],
+      "answer": 0,
+      "explanation": "Currency values are tied to another currency or commodity"
+    },
+    {
+      "id": 142,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the main benefit of a matrix organizational structure?",
+      "choices": [
+        "  Fraudulent reporting ",
+        "Flexibility in resource allocation across multiple projects",
+        "  TRIPS Agreement ",
+        "  Free trade area "
+      ],
+      "answer": 1,
+      "explanation": "Flexibility in resource allocation across multiple projects"
+    },
+    {
+      "id": 143,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the purpose of transfer pricing regulations?",
+      "choices": [
+        "  Civil ",
+        "  Power distance ",
+        "To ensure that multinational corporations pay fair taxes",
+        "  Greenfield investment "
+      ],
+      "answer": 2,
+      "explanation": "To ensure that multinational corporations pay fair taxes"
+    },
+    {
+      "id": 144,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which form of risk involves sudden political changes that affect all companies operating in a country?",
+      "choices": [
+        "  Globalization ",
+        "Macro risk",
+        "  TRIPS ",
+        "  Judicial decisions serve as precedents for future cases "
+      ],
+      "answer": 1,
+      "explanation": "Macro risk"
+    },
+    {
+      "id": 145,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which globalization driver is focused on reducing production costs through economies of scale and outsourcing?",
+      "choices": [
+        "  Globalization ",
+        "  Ability to customize products for local markets ",
+        "  Goods and services tax ",
+        "Cost"
+      ],
+      "answer": 3,
+      "explanation": "Cost"
+    },
+    {
+      "id": 146,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the main advantage of crowdfunding for start-up businesses?",
+      "choices": [
+        "  Market economy ",
+        "  To increase corporate transparency and reduce fraud ",
+        "Access to a large number of investors contributing small amounts",
+        "  Gaining access to local knowledge with low financial risk "
+      ],
+      "answer": 2,
+      "explanation": "Access to a large number of investors contributing small amounts"
+    },
+    {
+      "id": 147,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary focus of the World Intellectual Property Organization (WIPO)?",
+      "choices": [
+        "  Gross Domestic Product (GDP) ",
+        "  It imposes conditions that may harm developing countries ",
+        "  Elimination of internal tariffs and a common external tariff ",
+        "Promoting and protecting intellectual property rights"
+      ],
+      "answer": 3,
+      "explanation": "Promoting and protecting intellectual property rights"
+    },
+    {
+      "id": 148,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the main purpose of the General Data Protection Regulation (GDPR)?",
+      "choices": [
+        "To protect consumer data and privacy",
+        "  Entering new markets without establishing operations abroad ",
+        "  Offering unique products tailored to each market ",
+        "  Adhering to environmental and ethical standards "
+      ],
+      "answer": 0,
+      "explanation": "To protect consumer data and privacy"
+    },
+    {
+      "id": 149,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which term refers to the inequality between countries in terms of access to digital technologies and the internet?",
+      "choices": [
+        "  Common law ",
+        "  Individualism versus collectivism ",
+        "  Offering unique products tailored to each market ",
+        "Digital divide"
+      ],
+      "answer": 3,
+      "explanation": "Digital divide"
+    },
+    {
+      "id": 150,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary function of management information systems (MIS) in a global business environment?",
+      "choices": [
+        "  Employees may feel disconnected from decision-making ",
+        "To collect and analyze data on all aspects of business operations",
+        "  Economies of scale ",
+        "  Subsidy "
+      ],
+      "answer": 1,
+      "explanation": "To collect and analyze data on all aspects of business operations"
+    },
+    {
+      "id": 151,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary purpose of corporate governance in a global business environment?",
+      "choices": [
+        "To ensure accountability and transparency in decision-making",
+        "  Trade surplus ",
+        "  Faster decision-making at all levels ",
+        "  Rural areas "
+      ],
+      "answer": 0,
+      "explanation": "To ensure accountability and transparency in decision-making"
+    },
+    {
+      "id": 152,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which legal system is based on the concept of written codes and statutes?",
+      "choices": [
+        "Civil law",
+        "  Initial public offering (IPO) ",
+        "  To ensure accountability and transparency in decision-making ",
+        "  Penetration pricing "
+      ],
+      "answer": 0,
+      "explanation": "Civil law"
+    },
+    {
+      "id": 153,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the role of the World Trade Organization (WTO) in global business?",
+      "choices": [
+        "To promote free trade and settle trade disputes",
+        "  Civil law ",
+        "  To protect domestic industries from foreign competition ",
+        "  It imposes conditions that may harm developing countries "
+      ],
+      "answer": 0,
+      "explanation": "To promote free trade and settle trade disputes"
+    },
+    {
+      "id": 154,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which type of political risk involves changes in a country\u2019s policies that affect all foreign companies operating within the country?",
+      "choices": [
+        "  To hedge against exchange rate fluctuations ",
+        "  Floating ",
+        "  Six Sigma ",
+        "Macro risk"
+      ],
+      "answer": 3,
+      "explanation": "Macro risk"
+    },
+    {
+      "id": 155,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which growth strategy focuses on introducing new products to existing markets?",
+      "choices": [
+        "  Punish or pressure foreign governments ",
+        "  Skimming pricing ",
+        "Product development",
+        "  Increased tax revenue "
+      ],
+      "answer": 2,
+      "explanation": "Product development"
+    },
+    {
+      "id": 156,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the key benefit of a customs union?",
+      "choices": [
+        "  To protect creative and innovative works ",
+        "Elimination of internal tariffs and a common external tariff",
+        "  To minimize the financial risk of entering new markets ",
+        "  Free trade area "
+      ],
+      "answer": 1,
+      "explanation": "Elimination of internal tariffs and a common external tariff"
+    },
+    {
+      "id": 157,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the main advantage of a multinational corporation using vertical FDI?",
+      "choices": [
+        "  Debt financing ",
+        "  World Bank ",
+        "Controlling the supply chain by acquiring suppliers or distributors",
+        "  It allows for transparent and secure transactions without intermediaries "
+      ],
+      "answer": 2,
+      "explanation": "Controlling the supply chain by acquiring suppliers or distributors"
+    },
+    {
+      "id": 158,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which of Hofstede\u2019s cultural dimensions refers to how societies deal with uncertainty and ambiguity?",
+      "choices": [
+        "Uncertainty avoidance",
+        "  Tariff ",
+        "  Comparative advantage ",
+        "  Judicial decisions serve as precedents for future cases "
+      ],
+      "answer": 0,
+      "explanation": "Uncertainty avoidance"
+    },
+    {
+      "id": 159,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is a key benefit of licensing as an international market entry strategy?",
+      "choices": [
+        "Gaining access to local knowledge with low financial risk",
+        "  Subsidy ",
+        "  To protect inventions, trademarks, and copyrights across borders ",
+        "  Gross Domestic Product (GDP) "
+      ],
+      "answer": 0,
+      "explanation": "Gaining access to local knowledge with low financial risk"
+    },
+    {
+      "id": 160,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which factor is most important when a company is determining its global entry strategy?",
+      "choices": [
+        "  Economic ",
+        "  Financial instrument ",
+        "  To reduce the overall tax burden by shifting profits between countries ",
+        "Economic stability of the target market"
+      ],
+      "answer": 3,
+      "explanation": "Economic stability of the target market"
+    },
+    {
+      "id": 161,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary benefit of using common market integration?",
+      "choices": [
+        "Free movement of goods, services, labor, and capital between member states",
+        "  Goods and services tax ",
+        "  Brownfield investment ",
+        "  Common external tariffs for non-member countries "
+      ],
+      "answer": 0,
+      "explanation": "Free movement of goods, services, labor, and capital between member states"
+    },
+    {
+      "id": 162,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which type of intellectual property protection applies to an invention or industrial process?",
+      "choices": [
+        "Patent",
+        "  It disproportionately benefits developed countries ",
+        "  To ensure global financial stability ",
+        "  International Monetary Fund "
+      ],
+      "answer": 0,
+      "explanation": "Patent"
+    },
+    {
+      "id": 163,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which economic indicator measures the total market value of goods and services produced by a country in a year?",
+      "choices": [
+        "  To prevent foreign companies from selling goods below cost ",
+        "  Access to a large number of investors contributing small amounts ",
+        "  Foreign direct investment ",
+        "Gross Domestic Product (GDP)"
+      ],
+      "answer": 3,
+      "explanation": "Gross Domestic Product (GDP)"
+    },
+    {
+      "id": 164,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the key feature of a free trade area?",
+      "choices": [
+        "  To promote free trade and settle trade disputes ",
+        "Elimination of tariffs between member countries",
+        "  Offering unique products tailored to each market ",
+        "  Patent "
+      ],
+      "answer": 1,
+      "explanation": "Elimination of tariffs between member countries"
+    },
+    {
+      "id": 165,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary objective of international joint ventures?",
+      "choices": [
+        "To minimize the financial risk of entering new markets",
+        "  Digital divide ",
+        "  Brownfield investment ",
+        "  Patent "
+      ],
+      "answer": 0,
+      "explanation": "To minimize the financial risk of entering new markets"
+    },
+    {
+      "id": 166,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which of the following describes a government subsidy?",
+      "choices": [
+        "  They provide funding and mentorship to early-stage startups ",
+        "Financial assistance given by a government to support a domestic industry",
+        "  To promote sustainable development and global trade ",
+        "  Punish or pressure foreign governments "
+      ],
+      "answer": 1,
+      "explanation": "Financial assistance given by a government to support a domestic industry"
+    },
+    {
+      "id": 167,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which cultural dimension refers to the extent to which people in a society are integrated into groups?",
+      "choices": [
+        "  Lower upfront costs and broader market reach ",
+        "  Uniform external trade policies with non-members ",
+        "Individualism versus collectivism",
+        "  To promote the development of new communication technologies "
+      ],
+      "answer": 2,
+      "explanation": "Individualism versus collectivism"
+    },
+    {
+      "id": 168,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the main goal of the International Monetary Fund (IMF)?",
+      "choices": [
+        "  Offering unique products tailored to each market ",
+        "To ensure global financial stability",
+        "  Embargo ",
+        "  Paris Agreement "
+      ],
+      "answer": 1,
+      "explanation": "To ensure global financial stability"
+    },
+    {
+      "id": 169,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which economic system is characterized by government control of the factors of production?",
+      "choices": [
+        "  Producing goods in advance based on forecasted demand ",
+        "  Portfolio investment ",
+        "Command economy",
+        "  World Bank "
+      ],
+      "answer": 2,
+      "explanation": "Command economy"
+    },
+    {
+      "id": 170,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the purpose of the General Agreement on Tariffs and Trade (GATT)?",
+      "choices": [
+        "  Matrix structure ",
+        "  Dumping ",
+        "  Adapting products and services to fit the local market ",
+        "To reduce trade barriers and promote international trade"
+      ],
+      "answer": 3,
+      "explanation": "To reduce trade barriers and promote international trade"
+    },
+    {
+      "id": 171,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which type of foreign direct investment (FDI) involves a company acquiring an existing firm in a foreign market?",
+      "choices": [
+        "  Many buyers and sellers with no control over prices ",
+        "Brownfield investment",
+        "  Dumping ",
+        "  To protect domestic industries from foreign competition "
+      ],
+      "answer": 1,
+      "explanation": "Brownfield investment"
+    },
+    {
+      "id": 172,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the key focus of antitrust laws in global business?",
+      "choices": [
+        "Preventing unfair competition and promoting market fairness",
+        "  Floating ",
+        "  To reduce trade barriers and promote international trade ",
+        "  To increase corporate transparency and reduce fraud "
+      ],
+      "answer": 0,
+      "explanation": "Preventing unfair competition and promoting market fairness"
+    },
+    {
+      "id": 173,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which pricing strategy involves setting a high price initially and lowering it over time?",
+      "choices": [
+        "Price skimming",
+        "  The gap between rich and poor countries in internet access and use ",
+        "  Balancing global efficiency with local responsiveness ",
+        "  Common market "
+      ],
+      "answer": 0,
+      "explanation": "Price skimming"
+    },
+    {
+      "id": 174,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is a characteristic of a transnational strategy?",
+      "choices": [
+        "  To prevent monopolistic practices and promote competition ",
+        "Balancing global efficiency with local responsiveness",
+        "  Digital divide ",
+        "  Diversification "
+      ],
+      "answer": 1,
+      "explanation": "Balancing global efficiency with local responsiveness"
+    },
+    {
+      "id": 175,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary focus of corporate social responsibility (CSR) in international business?",
+      "choices": [
+        "  World Bank ",
+        "  Power distance ",
+        "Adhering to environmental and ethical standards",
+        "  Uniform external trade policies with non-members "
+      ],
+      "answer": 2,
+      "explanation": "Adhering to environmental and ethical standards"
+    },
+    {
+      "id": 176,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which globalization risk involves the societal expectations and standards of an organization operating in a foreign environment?",
+      "choices": [
+        "  Price skimming ",
+        "  Digital divide ",
+        "Cultural",
+        "  Cost "
+      ],
+      "answer": 2,
+      "explanation": "Cultural"
+    },
+    {
+      "id": 177,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is a characteristic of a floating exchange rate system?",
+      "choices": [
+        "The currency's value is allowed to fluctuate based on market forces",
+        "  Religious law ",
+        "  Adapting products and services to fit the local market ",
+        "  Macro risk "
+      ],
+      "answer": 0,
+      "explanation": "The currency's value is allowed to fluctuate based on market forces"
+    },
+    {
+      "id": 178,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which type of political risk affects a specific foreign company or a group of foreign companies in a country?",
+      "choices": [
+        "Micro risk",
+        "  Process automation ",
+        "  Market penetration ",
+        "  Common law "
+      ],
+      "answer": 0,
+      "explanation": "Micro risk"
+    },
+    {
+      "id": 179,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary purpose of the International Monetary Fund (IMF)?",
+      "choices": [
+        "  Increased tax revenue ",
+        "To ensure global financial stability",
+        "  Uncertainty avoidance ",
+        "  Command economy "
+      ],
+      "answer": 1,
+      "explanation": "To ensure global financial stability"
+    },
+    {
+      "id": 180,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is a key feature of a customs union?",
+      "choices": [
+        "Common external tariffs for non-member countries",
+        "  Goods and services tax ",
+        "  International Monetary Fund ",
+        "  Adapting products and services to fit the local market "
+      ],
+      "answer": 0,
+      "explanation": "Common external tariffs for non-member countries"
+    },
+    {
+      "id": 181,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which economic strategy involves using financial instruments to reduce the impact of adverse price movements?",
+      "choices": [
+        "  Asset ",
+        "Hedging",
+        "  To ensure accountability and transparency in decision-making ",
+        "  To prevent foreign companies from selling goods at below-market prices "
+      ],
+      "answer": 1,
+      "explanation": "Hedging"
+    },
+    {
+      "id": 182,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary focus of a transnational strategy in global business?",
+      "choices": [
+        "  It imposes conditions on loans that may harm developing countries ",
+        "  Gross national product ",
+        "Balancing global efficiency with local responsiveness",
+        "  Common law "
+      ],
+      "answer": 2,
+      "explanation": "Balancing global efficiency with local responsiveness"
+    },
+    {
+      "id": 183,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which type of pricing strategy involves setting a low price for a new product to attract customers and gain market share quickly?",
+      "choices": [
+        "  To ensure global financial stability ",
+        "Penetration pricing",
+        "  To promote the development of new communication technologies ",
+        "  To protect domestic industries from foreign competition "
+      ],
+      "answer": 1,
+      "explanation": "Penetration pricing"
+    },
+    {
+      "id": 184,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary benefit of using a geocentric approach to human resource management?",
+      "choices": [
+        "  It allows for transparent and secure transactions without intermediaries ",
+        "It leverages the best talent from both the home and host countries",
+        "  Common law ",
+        "  Financial instrument "
+      ],
+      "answer": 1,
+      "explanation": "It leverages the best talent from both the home and host countries"
+    },
+    {
+      "id": 185,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the role of intellectual property laws in international business?",
+      "choices": [
+        "  Allowing users to store and control personal information ",
+        "To protect inventions, trademarks, and copyrights across borders",
+        "  Foreign direct investment ",
+        "  Penetration pricing "
+      ],
+      "answer": 1,
+      "explanation": "To protect inventions, trademarks, and copyrights across borders"
+    },
+    {
+      "id": 186,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary objective of the World Bank?",
+      "choices": [
+        "  Micro risk ",
+        "To provide loans for development projects in poor countries",
+        "  Floating exchange rate ",
+        "  Stabilize exchange rates and promote international monetary cooperation "
+      ],
+      "answer": 1,
+      "explanation": "To provide loans for development projects in poor countries"
+    },
+    {
+      "id": 187,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which type of legal system is based on religious beliefs and guidelines?",
+      "choices": [
+        "  Adhering to environmental and ethical standards ",
+        "Religious law",
+        "  Localization ",
+        "  It allows for transparent and secure transactions without intermediaries "
+      ],
+      "answer": 1,
+      "explanation": "Religious law"
+    },
+    {
+      "id": 188,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which economic integration stage removes trade barriers between member countries but does not establish a common external tariff?",
+      "choices": [
+        "  Overseeing the international exchange rate system ",
+        "  Penetration pricing ",
+        "  Reducing risk ",
+        "Free trade area"
+      ],
+      "answer": 3,
+      "explanation": "Free trade area"
+    },
+    {
+      "id": 189,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the key focus of a localization strategy in international business?",
+      "choices": [
+        "  To reduce taxes by shifting profits to low-tax jurisdictions ",
+        "  Integration of digital and physical systems ",
+        "Adapting products and services to fit the local market",
+        "  To promote international monetary cooperation and stability "
+      ],
+      "answer": 2,
+      "explanation": "Adapting products and services to fit the local market"
+    },
+    {
+      "id": 190,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary goal of a multinational corporation\u2019s transfer pricing strategy?",
+      "choices": [
+        "  NAFTA ",
+        "  To ensure that multinational corporations pay fair taxes ",
+        "  To hedge against exchange rate fluctuations ",
+        "To reduce the overall tax burden by shifting profits between countries"
+      ],
+      "answer": 3,
+      "explanation": "To reduce the overall tax burden by shifting profits between countries"
+    },
+    {
+      "id": 191,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the main benefit of using blockchain technology in international business?",
+      "choices": [
+        "Allowing users to store and control personal information",
+        "  Macro risk ",
+        "  Cost ",
+        "  Patent "
+      ],
+      "answer": 0,
+      "explanation": "Allowing users to store and control personal information"
+    },
+    {
+      "id": 192,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the focus of the Sarbanes-Oxley Act of 2002?",
+      "choices": [
+        "To increase corporate transparency and reduce fraud",
+        "  Brownfield investment ",
+        "  To ensure global financial stability ",
+        "  Product structure "
+      ],
+      "answer": 0,
+      "explanation": "To increase corporate transparency and reduce fraud"
+    },
+    {
+      "id": 193,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which legal system allows judges to interpret laws and apply precedents from previous rulings?",
+      "choices": [
+        "Common law",
+        "  Reducing risk ",
+        "  Economies of scale ",
+        "  To collect and analyze data on all aspects of business operations "
+      ],
+      "answer": 0,
+      "explanation": "Common law"
+    },
+    {
+      "id": 194,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the main goal of regional economic integration agreements like NAFTA or the European Union?",
+      "choices": [
+        "  To ensure that multinational corporations pay fair taxes ",
+        "  Supply chain ",
+        "To eliminate trade barriers and foster economic cooperation",
+        "  Outsourcing "
+      ],
+      "answer": 2,
+      "explanation": "To eliminate trade barriers and foster economic cooperation"
+    },
+    {
+      "id": 195,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the purpose of the International Telecommunication Union (ITU)?",
+      "choices": [
+        "To promote the development of new communication technologies",
+        "  Power distance ",
+        "  Brownfield investment ",
+        "  Digital divide "
+      ],
+      "answer": 0,
+      "explanation": "To promote the development of new communication technologies"
+    },
+    {
+      "id": 196,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which pricing strategy involves lowering prices for a limited time to increase sales volume?",
+      "choices": [
+        "  Penetration pricing ",
+        "  Supply chain ",
+        "Promotional pricing",
+        "  Franchising "
+      ],
+      "answer": 2,
+      "explanation": "Promotional pricing"
+    },
+    {
+      "id": 197,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary function of a database management system (DBMS) in a global business?",
+      "choices": [
+        "  The gap between rich and poor countries in internet access and use ",
+        "  Supply chain ",
+        "To collect and organize data for analysis",
+        "  Price skimming "
+      ],
+      "answer": 2,
+      "explanation": "To collect and organize data for analysis"
+    },
+    {
+      "id": 198,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which type of market structure has many buyers and sellers, where no individual actor can influence the price?",
+      "choices": [
+        "  Power distance ",
+        "Perfect competition",
+        "  It disproportionately benefits developed countries ",
+        "  Comparative advantage "
+      ],
+      "answer": 1,
+      "explanation": "Perfect competition"
+    },
+    {
+      "id": 199,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is a key advantage of indirect distribution channels?",
+      "choices": [
+        "Lower upfront costs and broader market reach",
+        "  Common trade policies toward non-member countries ",
+        "  Common ",
+        "  Common market "
+      ],
+      "answer": 0,
+      "explanation": "Lower upfront costs and broader market reach"
+    },
+    {
+      "id": 200,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which level of economic integration allows free movement of capital, labor, and technology between member countries?",
+      "choices": [
+        "  Uniform external trade policies with non-members ",
+        "Common market",
+        "  Financial assistance given by a government to support a domestic industry ",
+        "  Ability to customize products for local markets "
+      ],
+      "answer": 1,
+      "explanation": "Common market"
+    },
+    {
+      "id": 201,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which financing source involves raising small amounts of capital from a large number of investors, typically through an online platform?",
+      "choices": [
+        "Crowdsourcing",
+        "  Access to a large number of investors contributing small amounts ",
+        "  NAFTA ",
+        "  Happy Planet Index "
+      ],
+      "answer": 0,
+      "explanation": "Crowdsourcing"
+    },
+    {
+      "id": 202,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the main benefit of using a forward contract in international business?",
+      "choices": [
+        "  Comparative advantage ",
+        "To hedge against exchange rate risk",
+        "  Technological advancements ",
+        "  Ability to customize products for local markets "
+      ],
+      "answer": 1,
+      "explanation": "To hedge against exchange rate risk"
+    },
+    {
+      "id": 203,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which economic integration stage establishes a common external tariff on non-member countries?",
+      "choices": [
+        "  Gross Domestic Product (GDP) ",
+        "  Common external tariffs for non-member countries ",
+        "  Command economy ",
+        "Customs union"
+      ],
+      "answer": 3,
+      "explanation": "Customs union"
+    },
+    {
+      "id": 204,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which agreement helps protect intellectual property rights in the global market?",
+      "choices": [
+        "  To enhance a company\u2019s reputation and positively impact society ",
+        "TRIPS",
+        "  Provide financial assistance to developing countries ",
+        "  Currency value is determined by market forces "
+      ],
+      "answer": 1,
+      "explanation": "TRIPS"
+    },
+    {
+      "id": 205,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which type of FDI (Foreign Direct Investment) involves a company establishing new operations in a foreign country where no prior business existed?",
+      "choices": [
+        "  Nongovernmental organizations (NGOs) ",
+        "Greenfield investment",
+        "  Liability ",
+        "  Brownfield investment "
+      ],
+      "answer": 1,
+      "explanation": "Greenfield investment"
+    },
+    {
+      "id": 206,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary focus of a multidomestic strategy in international business?",
+      "choices": [
+        "  Religious law ",
+        "Offering unique products tailored to each market",
+        "  Market entry ",
+        "  World Trade Organization "
+      ],
+      "answer": 1,
+      "explanation": "Offering unique products tailored to each market"
+    },
+    {
+      "id": 207,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary goal of using a hedging strategy in international finance?",
+      "choices": [
+        "To minimize potential losses from adverse price movements",
+        "  Adhering to environmental and ethical standards ",
+        "  To protect personal data of individuals within the EU ",
+        "  Trade "
+      ],
+      "answer": 0,
+      "explanation": "To minimize potential losses from adverse price movements"
+    },
+    {
+      "id": 208,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which cultural dimension in Hofstede\u2019s framework measures the extent to which a society accepts unequal distribution of power?",
+      "choices": [
+        "  Initial public offering (IPO) ",
+        "  Lower production costs per unit ",
+        "Power distance",
+        "  To promote international monetary cooperation and stability "
+      ],
+      "answer": 2,
+      "explanation": "Power distance"
+    },
+    {
+      "id": 209,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the purpose of the General Data Protection Regulation (GDPR)?",
+      "choices": [
+        "  To hedge against exchange rate risk ",
+        "  Free trade area ",
+        "To protect personal data of individuals within the EU",
+        "  Paris Agreement "
+      ],
+      "answer": 2,
+      "explanation": "To protect personal data of individuals within the EU"
+    },
+    {
+      "id": 210,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which stage of economic integration allows free movement of goods, services, capital, and labor between member countries?",
+      "choices": [
+        "Common market",
+        "  Hedging ",
+        "  Religious law ",
+        "  Skimming pricing "
+      ],
+      "answer": 0,
+      "explanation": "Common market"
+    },
+    {
+      "id": 211,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the key characteristic of a venture capitalist?",
+      "choices": [
+        "Seeks high returns by investing in early-stage startups",
+        "  It leverages the best talent from both the home and host countries ",
+        "  Gross national product ",
+        "  To prevent foreign companies from selling goods at below-market prices "
+      ],
+      "answer": 0,
+      "explanation": "Seeks high returns by investing in early-stage startups"
+    },
+    {
+      "id": 212,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which financing method involves selling company shares to the public?",
+      "choices": [
+        "  Power distance ",
+        "  Comparative advantage ",
+        "Initial public offering (IPO)",
+        "  To promote sustainable development and global trade "
+      ],
+      "answer": 2,
+      "explanation": "Initial public offering (IPO)"
+    },
+    {
+      "id": 213,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary advantage of using an export strategy in international business?",
+      "choices": [
+        "  To minimize potential losses from adverse price movements ",
+        "Entering new markets without establishing operations abroad",
+        "  To protect consumer data and privacy ",
+        "  Stabilize exchange rates and promote international monetary cooperation "
+      ],
+      "answer": 1,
+      "explanation": "Entering new markets without establishing operations abroad"
+    },
+    {
+      "id": 214,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the role of the World Trade Organization (WTO)?",
+      "choices": [
+        "  Lower production costs per unit ",
+        "  To minimize the risk by spreading investments across different markets ",
+        "  Paris Agreement ",
+        "To resolve trade disputes between member nations"
+      ],
+      "answer": 3,
+      "explanation": "To resolve trade disputes between member nations"
+    },
+    {
+      "id": 215,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the main goal of corporate social responsibility (CSR)?",
+      "choices": [
+        "  Paris Agreement ",
+        "  Trade surplus ",
+        "To promote ethical business practices and contribute to societal goals",
+        "  Legal "
+      ],
+      "answer": 2,
+      "explanation": "To promote ethical business practices and contribute to societal goals"
+    },
+    {
+      "id": 216,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which global organization is responsible for providing loans to developing countries for infrastructure projects?",
+      "choices": [
+        "  Gini coefficient ",
+        "  Economic ",
+        "World Bank",
+        "  Price skimming "
+      ],
+      "answer": 2,
+      "explanation": "World Bank"
+    },
+    {
+      "id": 217,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary focus of an ethnocentric approach to global human resource management?",
+      "choices": [
+        "Relying on home-country nationals for key management positions",
+        "  Market ",
+        "  Combining global standardization with local responsiveness ",
+        "  Goods and services tax "
+      ],
+      "answer": 0,
+      "explanation": "Relying on home-country nationals for key management positions"
+    },
+    {
+      "id": 218,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which pricing strategy involves setting a high initial price to maximize profits before lowering it over time?",
+      "choices": [
+        "Skimming pricing",
+        "  To protect personal data of individuals within the EU ",
+        "  Brownfield investment ",
+        "  Asset "
+      ],
+      "answer": 0,
+      "explanation": "Skimming pricing"
+    },
+    {
+      "id": 219,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the main goal of transfer pricing within multinational corporations?",
+      "choices": [
+        "To reduce taxes by shifting profits to low-tax jurisdictions",
+        "  Balancing global efficiency with local responsiveness ",
+        "  Dumping ",
+        "  Gaining access to local knowledge with low financial risk "
+      ],
+      "answer": 0,
+      "explanation": "To reduce taxes by shifting profits to low-tax jurisdictions"
+    },
+    {
+      "id": 220,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary focus of a push supply chain strategy?",
+      "choices": [
+        "  The currency's value is allowed to fluctuate based on market forces ",
+        "Producing goods in advance based on forecasted demand",
+        "  To establish accounting standards in the United States ",
+        "  World Bank "
+      ],
+      "answer": 1,
+      "explanation": "Producing goods in advance based on forecasted demand"
+    },
+    {
+      "id": 221,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which financial instrument allows two parties to exchange currencies at a previously agreed exchange rate in the future?",
+      "choices": [
+        "  Cost ",
+        "  Power distance ",
+        "  Combining global standardization with local responsiveness ",
+        "Currency swap contract"
+      ],
+      "answer": 3,
+      "explanation": "Currency swap contract"
+    },
+    {
+      "id": 222,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the main benefit of using a common market in economic integration?",
+      "choices": [
+        "  To prevent monopolistic practices and promote competition ",
+        "Allowing free movement of goods, services, capital, and labor between member countries",
+        "  Rural areas ",
+        "  To reduce the overall tax burden by shifting profits between countries "
+      ],
+      "answer": 1,
+      "explanation": "Allowing free movement of goods, services, capital, and labor between member countries"
+    },
+    {
+      "id": 223,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which economic theory suggests that countries should specialize in producing goods where they have the lowest opportunity cost?",
+      "choices": [
+        "  Floating exchange rate ",
+        "Comparative advantage",
+        "  To settle trade disputes between countries ",
+        "  NAFTA "
+      ],
+      "answer": 1,
+      "explanation": "Comparative advantage"
+    },
+    {
+      "id": 224,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary advantage of using blockchain technology in global business?",
+      "choices": [
+        "It allows for transparent and secure transactions without intermediaries",
+        "  Matrix structure ",
+        "  Price skimming ",
+        "  Stabilize exchange rates and promote international monetary cooperation "
+      ],
+      "answer": 0,
+      "explanation": "It allows for transparent and secure transactions without intermediaries"
+    },
+    {
+      "id": 225,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which economic measure represents the total market value of all goods and services produced within a country\u2019s borders in a specific period?",
+      "choices": [
+        "Gross domestic product (GDP)",
+        "  Market ",
+        "  Floating ",
+        "  MERCOSUR "
+      ],
+      "answer": 0,
+      "explanation": "Gross domestic product (GDP)"
+    },
+    {
+      "id": 226,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is a common criticism of the World Bank?",
+      "choices": [
+        "  To hedge against exchange rate risk ",
+        "  To establish accounting standards in the United States ",
+        "  Franchising ",
+        "It imposes conditions on loans that may harm developing countries"
+      ],
+      "answer": 3,
+      "explanation": "It imposes conditions on loans that may harm developing countries"
+    },
+    {
+      "id": 227,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which type of tariff is levied on imports to protect domestic industries by making foreign goods more expensive?",
+      "choices": [
+        "  Individualism versus collectivism ",
+        "Protective tariff",
+        "  Dumping ",
+        "  Perfect competition "
+      ],
+      "answer": 1,
+      "explanation": "Protective tariff"
+    },
+    {
+      "id": 228,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is a primary objective of environmental sustainability initiatives in global business?",
+      "choices": [
+        "  Currency swap contract ",
+        "  Gross domestic product ",
+        "To minimize the environmental impact of business operations",
+        "  Minimizes exchange rate risks "
+      ],
+      "answer": 2,
+      "explanation": "To minimize the environmental impact of business operations"
+    },
+    {
+      "id": 229,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is a significant disadvantage of direct exporting as a global expansion strategy?",
+      "choices": [
+        "  Seeks high returns by investing in early-stage startups ",
+        "High transportation costs",
+        "  Market ",
+        "  Global standardization strategy "
+      ],
+      "answer": 1,
+      "explanation": "High transportation costs"
+    },
+    {
+      "id": 230,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which legal system relies heavily on precedents set by judicial decisions?",
+      "choices": [
+        "  Paris Agreement ",
+        "  Cultural globalization ",
+        "Common law",
+        "  Reducing risk "
+      ],
+      "answer": 2,
+      "explanation": "Common law"
+    },
+    {
+      "id": 231,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which type of regional economic integration allows member countries to set their own trade policies with non-member countries?",
+      "choices": [
+        "  To protect personal data of individuals within the EU ",
+        "  Debt financing ",
+        "Free trade area",
+        "  Common "
+      ],
+      "answer": 2,
+      "explanation": "Free trade area"
+    },
+    {
+      "id": 232,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary purpose of using a currency option contract in international business?",
+      "choices": [
+        "  They provide funding and mentorship to early-stage startups ",
+        "  To increase corporate transparency and reduce fraud ",
+        "  Currency swap contract ",
+        "To hedge against currency depreciation"
+      ],
+      "answer": 3,
+      "explanation": "To hedge against currency depreciation"
+    },
+    {
+      "id": 233,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which agreement, established in 1988, focuses on promoting economic growth and political stability in South America?",
+      "choices": [
+        "  Crowdsourcing ",
+        "  Elimination of tariffs between member countries ",
+        "  It imposes conditions that may harm developing countries ",
+        "MERCOSUR"
+      ],
+      "answer": 3,
+      "explanation": "MERCOSUR"
+    },
+    {
+      "id": 234,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the main function of the International Monetary Fund (IMF)?",
+      "choices": [
+        "  Forward contract ",
+        "  Gross Domestic Product (GDP) ",
+        "  To prevent foreign companies from selling goods at below-market prices ",
+        "To promote international monetary cooperation and stability"
+      ],
+      "answer": 3,
+      "explanation": "To promote international monetary cooperation and stability"
+    },
+    {
+      "id": 235,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which pricing strategy involves setting a low initial price to quickly attract customers and gain market share?",
+      "choices": [
+        "  Patent ",
+        "  Power distance ",
+        "Penetration pricing",
+        "  Free trade area "
+      ],
+      "answer": 2,
+      "explanation": "Penetration pricing"
+    },
+    {
+      "id": 236,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the purpose of a balance of payments in international trade?",
+      "choices": [
+        "To record all economic transactions between a country and the rest of the world",
+        "  Common market ",
+        "  World Bank ",
+        "  Employees at all levels are empowered to make decisions "
+      ],
+      "answer": 0,
+      "explanation": "To record all economic transactions between a country and the rest of the world"
+    },
+    {
+      "id": 237,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is a characteristic of a perfectly competitive market?",
+      "choices": [
+        "Many buyers and sellers with no control over prices",
+        "  It imposes conditions on loans that may harm developing countries ",
+        "  Promotional pricing ",
+        "  Options contract "
+      ],
+      "answer": 0,
+      "explanation": "Many buyers and sellers with no control over prices"
+    },
+    {
+      "id": 238,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the main goal of antitrust laws?",
+      "choices": [
+        "  Overseeing the international exchange rate system ",
+        "  Offshoring ",
+        "  Protective tariff ",
+        "To protect consumers from unfair business practices"
+      ],
+      "answer": 3,
+      "explanation": "To protect consumers from unfair business practices"
+    },
+    {
+      "id": 239,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is a primary feature of a common law legal system?",
+      "choices": [
+        "  Crowdsourcing ",
+        "  Uniform external trade policies with non-members ",
+        "  Common trade policies toward non-member countries ",
+        "Judicial decisions serve as precedents for future cases"
+      ],
+      "answer": 3,
+      "explanation": "Judicial decisions serve as precedents for future cases"
+    },
+    {
+      "id": 240,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary purpose of tariffs in international trade?",
+      "choices": [
+        "  Lower upfront costs and broader market reach ",
+        "To protect domestic industries from foreign competition",
+        "  Offering unique products tailored to each market ",
+        "  Gross domestic product "
+      ],
+      "answer": 1,
+      "explanation": "To protect domestic industries from foreign competition"
+    },
+    {
+      "id": 241,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is a key characteristic of angel investors?",
+      "choices": [
+        "  Common ",
+        "  Outsourcing ",
+        "  Matrix structure ",
+        "They provide funding and mentorship to early-stage startups"
+      ],
+      "answer": 3,
+      "explanation": "They provide funding and mentorship to early-stage startups"
+    },
+    {
+      "id": 242,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which exchange rate system allows currencies to fluctuate based on market forces without government intervention?",
+      "choices": [
+        "  It imposes conditions on loans that may harm developing countries ",
+        "Floating exchange rate",
+        "  Adhering to environmental and ethical standards ",
+        "  Stabilize exchange rates and promote international monetary cooperation "
+      ],
+      "answer": 1,
+      "explanation": "Floating exchange rate"
+    },
+    {
+      "id": 243,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which law governs international sales of goods between businesses located in different countries?",
+      "choices": [
+        "  Cultural ",
+        "  Common market ",
+        "UN Convention on Contracts for the International Sale of Goods (CISG)",
+        "  Foreign Corrupt Practices Act "
+      ],
+      "answer": 2,
+      "explanation": "UN Convention on Contracts for the International Sale of Goods (CISG)"
+    },
+    {
+      "id": 244,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the purpose of antidumping laws in international trade?",
+      "choices": [
+        "  Religious law ",
+        "  Patents ",
+        "  Embargo ",
+        "To prevent foreign companies from selling goods at below-market prices"
+      ],
+      "answer": 3,
+      "explanation": "To prevent foreign companies from selling goods at below-market prices"
+    },
+    {
+      "id": 245,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which agreement was implemented in 1994 to create a free trade zone between the U.S., Canada, and Mexico?",
+      "choices": [
+        "  To reduce trade barriers and promote international trade ",
+        "  Balancing global efficiency with local responsiveness ",
+        "NAFTA",
+        "  Greenfield investment "
+      ],
+      "answer": 2,
+      "explanation": "NAFTA"
+    },
+    {
+      "id": 246,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the main objective of the Clean Water Act in the U.S.?",
+      "choices": [
+        "  Promoting and protecting intellectual property rights ",
+        "To set limits on water pollutants discharged into U.S. waterways",
+        "  Foreign direct investment ",
+        "  Provide financial assistance to developing countries "
+      ],
+      "answer": 1,
+      "explanation": "To set limits on water pollutants discharged into U.S. waterways"
+    },
+    {
+      "id": 247,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which financing strategy involves borrowing capital in exchange for the promise to repay the principal plus interest?",
+      "choices": [
+        "  Currency swap contract ",
+        "Debt financing",
+        "  Localization ",
+        "  World Trade Organization "
+      ],
+      "answer": 1,
+      "explanation": "Debt financing"
+    },
+    {
+      "id": 248,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is the primary benefit of using a diversification strategy in global business?",
+      "choices": [
+        "  Brownfield investment ",
+        "  Stabilize exchange rates and promote international monetary cooperation ",
+        "  To hedge against currency depreciation ",
+        "To minimize the risk by spreading investments across different markets"
+      ],
+      "answer": 3,
+      "explanation": "To minimize the risk by spreading investments across different markets"
+    },
+    {
+      "id": 249,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - What is a primary disadvantage of a high power distance culture in business?",
+      "choices": [
+        "  Digital divide ",
+        "  Gross national product ",
+        "Employees may feel disconnected from decision-making",
+        "  Corporate social responsibility "
+      ],
+      "answer": 2,
+      "explanation": "Employees may feel disconnected from decision-making"
+    },
+    {
+      "id": 250,
+      "type": "multiple_choice",
+      "question": "Fill in the blank: _____ - Which agreement focuses on reducing greenhouse gas emissions globally?",
+      "choices": [
+        "  Allowing users to store and control personal information ",
+        "  Floating exchange rate ",
+        "Paris Agreement",
+        "  Capital "
+      ],
+      "answer": 2,
+      "explanation": "Paris Agreement"
+    }
+  ]
+}
